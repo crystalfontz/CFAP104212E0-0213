@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CFAP104212E00213/v15
+/Debug
+/__vm
+/~AutoRecover.CFAP104212E00213.vcxproj
+/CFAP104212E00213.vcxproj.user
+/CFAP104212E00213.vcxproj.filters
+/CFAP104212E00213.vcxproj
+/CFAP104212E00213.sln
